@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Argon/Argon.iml" filepath="$PROJECT_DIR$/Argon/Argon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArgonProject.iml" filepath="$PROJECT_DIR$/ArgonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArgonSample/ArgonSample.iml" filepath="$PROJECT_DIR$/ArgonSample/ArgonSample.iml" />
+    </modules>
+  </component>
+</project>
+
